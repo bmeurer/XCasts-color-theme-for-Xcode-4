@@ -5,7 +5,7 @@ This is my Xcode 4 version of Ben Scheirman's [XCasts color theme for Xcode
 [Ryan Bates](http://railscasts.com/)' excellent [Railscasts theme for
 Textmate](http://railscasts.com/about).
 
-![Screenshot](http://github.com/bmeurer/XCasts-color-theme-for-Xcode-4/raw/master/XCasts-screenshot.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/bmeurer/XCasts-color-theme-for-Xcode-4/master/XCasts-screenshot.png "Screenshot")
 
 # Installation
 
